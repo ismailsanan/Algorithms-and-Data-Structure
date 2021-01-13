@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477904554 source:c:\users\inaam\desktop\algo\labs\lab4_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
