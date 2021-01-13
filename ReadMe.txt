@@ -1,0 +1,1 @@
+you can find All the projects and Exercises in these folder including Theory and Notes 

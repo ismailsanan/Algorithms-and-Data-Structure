@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528935647 source:c:\users\el zein\desktop\algorithm coding\restuarant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

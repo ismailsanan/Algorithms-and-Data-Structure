@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1528708697 source:c:\users\el zein\desktop\algorithm coding\bsttree\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1528708230 c:\users\el zein\desktop\algorithm coding\bsttree\bsttree.h
+
+1528708230 source:c:\users\el zein\desktop\algorithm coding\bsttree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1528723918 source:f:\bsttree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1528723754 f:\bsttree\bsttree.h
+
+1528723844 source:f:\bsttree\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1529059955 source:c:\users\s207057\desktop\bsttree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1529059663 c:\users\s207057\desktop\bsttree\bsttree.h
+
+1529063193 source:c:\users\s207057\desktop\bsttree\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1529265464 source:h:\bsttree\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1529262080 h:\bsttree\bsttree.h
+
+1529265516 source:h:\bsttree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
